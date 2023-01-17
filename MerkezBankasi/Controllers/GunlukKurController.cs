@@ -49,6 +49,7 @@ namespace MerkezBankasi.Controllers
 
                     result.Data.Add(kur);
 
+
                 }
 
         }
